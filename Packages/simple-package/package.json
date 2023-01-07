@@ -1,0 +1,10 @@
+{
+  "name": "com.sandolkakos.simple-package",
+  "displayName": "00 - Simple Package",
+  "version": "1.0.0",
+  "description": "Package created to test Roslyn Analyzers. Scripts in this package should be ignored by analyzers.",
+  "hideInEditor": false,
+  "author": {
+    "name": "Sandolkakos"
+  }
+}
